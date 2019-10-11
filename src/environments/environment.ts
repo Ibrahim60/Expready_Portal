@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // firebase : {
+  //   apiKey: "AIzaSyDAogLp8KKrzGLQyZ20Ux2BUF4UG8fcqWU",
+  //   authDomain: "expready-portal.firebaseapp.com",
+  //   databaseURL: "https://expready-portal.firebaseio.com",
+  //   projectId: "expready-portal",
+  //   storageBucket: "expready-portal.appspot.com",
+  //   messagingSenderId: "897288273270",
+  //   appId: "1:897288273270:web:c0656c5b467e9ae0348e57",
+  //   measurementId: "G-H45WLC6FE6"
+  // }
 };
 
 /*
